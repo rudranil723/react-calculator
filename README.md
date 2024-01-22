@@ -1,4 +1,4 @@
-calculator using the REACT library and CSS
+<H1>calculator using the REACT library and CSS</H1>
 
 <img src="./public/sampleimage.png" alt="sample image">
 
